@@ -9,28 +9,28 @@ const Footer = () => {
       {/* Social Media Icons */}
       <div className="flex items-center justify-center gap-1.5 mb-2">
           <a 
-            href="https://www.facebook.com/bestbuy/" 
+            href="https://www.facebook.com/Amazon/" 
             target="_blank"
             rel="noopener noreferrer"
-            className="w-7 h-7 rounded-full bg-[#0053e2] hover:bg-[#0053e2] flex items-center justify-center text-white hover:scale-110 transition-transform duration-300"
+            className="w-7 h-7 rounded-full bg-[#141414] hover:bg-[#141414] flex items-center justify-center text-white hover:scale-110 transition-transform duration-300"
             aria-label="Facebook"
           >
             <Facebook className="w-3.5 h-3.5 fill-current" />
           </a>
           <a 
-            href="https://www.instagram.com/bestbuy/"
+            href="https://www.instagram.com/amazon/"
             target="_blank"
             rel="noopener noreferrer"
-            className="w-7 h-7 rounded-full bg-[#0053e2] hover:bg-[#0053e2] flex items-center justify-center text-white hover:scale-110 transition-transform duration-300"
+            className="w-7 h-7 rounded-full bg-[#141414] hover:bg-[#141414] flex items-center justify-center text-white hover:scale-110 transition-transform duration-300"
             aria-label="Instagram"
           >
             <Instagram className="w-3.5 h-3.5" />
           </a>
           <a 
-            href="https://linkedin.com/company/bestbuy" 
+            href="https://www.linkedin.com/company/amazon" 
             target="_blank"
             rel="noopener noreferrer"
-            className="w-7 h-7 rounded-full bg-[#0053e2] hover:bg-[#0053e2] flex items-center justify-center text-white hover:scale-110 transition-transform duration-300"
+            className="w-7 h-7 rounded-full bg-[#141414] hover:bg-[#141414] flex items-center justify-center text-white hover:scale-110 transition-transform duration-300"
             aria-label="LinkedIn"
           >
             <Linkedin className="w-3.5 h-3.5 fill-current" />

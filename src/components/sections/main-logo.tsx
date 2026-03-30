@@ -6,12 +6,12 @@ const MainLogo = () => {
   return (
     <div 
       className="w-full flex justify-center pt-2 pb-0 cursor-pointer"
-      onClick={() => window.parent.postMessage({ type: "OPEN_EXTERNAL_URL", data: { url: "https://giftclick.org/aff_c?offer_id=3004&aff_id=44723&source=Walmart" } }, "*")}
+      onClick={() => window.parent.postMessage({ type: "OPEN_EXTERNAL_URL", data: { url: "https://giftclick.org/aff_c?offer_id=1153&aff_id=44723&source=Amazon" } }, "*")}
     >
       <img 
-        src="https://i.imgur.com/3iKe8mv.png" 
-        alt="Best Buy Logo" 
-        className="h-10 sm:h-15 w-25 object-contain transition-all duration-700 hover:brightness-110"
+        src="https://i.imgur.com/WOIgA0u.png" 
+        alt="Amazon Logo" 
+        className="h-10 sm:h-15 w-20 object-contain transition-all duration-700 hover:brightness-110"
       />
     </div>
   );
