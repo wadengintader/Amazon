@@ -5,8 +5,8 @@ import ErrorReporter from "@/components/ErrorReporter";
 import Script from "next/script";
 
 export const metadata: Metadata = {
-  title: "Best Buy Gift Card",
-  description: "Participate in the PrettyLittleThing Rewards program and get a chance to claim a $500 gift card.",
+  title: "Amazon Gift Card",
+  description: "Participate in the Amazon Rewards program and get a chance to claim a $500 gift card.",
     icons: {
     icon: [
       { url: "https://i.imgur.com/83NsixS.png", type: "image/png" },
