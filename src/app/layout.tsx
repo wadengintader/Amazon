@@ -9,11 +9,11 @@ export const metadata: Metadata = {
   description: "Participate in the Amazon Rewards program and get a chance to claim a $500 gift card.",
     icons: {
     icon: [
-      { url: "https://i.imgur.com/83NsixS.png", type: "image/png" },
+      { url: "https://i.imgur.com/ZuhZxyP.png", type: "image/png" },
     ],
-    shortcut: "https://i.imgur.com/83NsixS.png",
+    shortcut: "https://i.imgur.com/ZuhZxyP.png",
     apple: [
-      { url: "https://i.imgur.com/83NsixS.png", sizes: "180x180", type: "image/png" },
+      { url: "https://i.imgur.com/ZuhZxyP.png", sizes: "180x180", type: "image/png" },
     ],
     other: [
       {
